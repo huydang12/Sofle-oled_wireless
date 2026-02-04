@@ -78,10 +78,10 @@ layers:
   - {t: ▽, type: trans}
   - CAPS
   - KP NUMLOCK
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - KP 7
+  - KP 8
+  - KP 9
+  - KP MINUS
   - PG UP
   - {t: ▽, type: trans}
   - UP
@@ -90,10 +90,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - KP 4
+  - KP 5
+  - KP 6
+  - KP PLUS
   - PG DN
   - LEFT
   - DOWN
@@ -102,24 +102,24 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - KP 1
+  - KP 2
+  - KP 3
+  - KP ENTER
+  - MUTE
+  - '&studio_unlock'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - KP 0
+  - KP DOT
+  - '*'
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - SPACE
+  - ENTER
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -131,7 +131,7 @@ layers:
   - {t: BT, h: '2'}
   - {t: BT, h: '3'}
   - {t: BT, h: '4'}
-  - W
+  - {t: ▽, type: trans}
   - ''
   - ''
   - ''
